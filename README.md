@@ -5,7 +5,7 @@
 [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/),
 and [Jiaying Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html) 
 
-[[Paper Link]](http://39.96.165.147/Pub%20Files/2021/ywh_pami21.pdf)
+[[Paper Link]](http://39.96.165.147/Pub%20Files/2021/ywh_submission21_2.pdf)
 [[Project Page]](https://github.com/flyywh/CVPR-2020-Self-Rain-Removal-Journal)
 
 ### Abstract
@@ -19,6 +19,9 @@ Unlike existing video-deraining methods, this paper presents a self-learning met
 
 ## Installation
 (TBD)
+
+## Supplmentary Materials and Results
+- Supplementary PDF file: [Supplement](./TPAMI-Self-Video-Deraining-Sup-v2.pdf)
 
 ## Contact
 If you have questions, you can contact `yangwenhan@pku.edu.cn`.
