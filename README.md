@@ -21,7 +21,7 @@ Unlike existing video-deraining methods, this paper presents a self-learning met
 (TBD)
 
 ## Supplmentary Materials and Results
-- Supplementary PDF file: [Supplement](./TPAMI-Self-Video-Deraining-Sup-v2.pdf)
+- Supplementary PDF file: [Supplement](https://github.com/flyywh/CVPR-2020-Self-Rain-Removal-Journal/blob/main/pdf/TPAMI-Self-Video-Deraining-Sup-v2.pdf)
 
 ## Contact
 If you have questions, you can contact `yangwenhan@pku.edu.cn`.
