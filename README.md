@@ -23,7 +23,7 @@ Unlike existing video-deraining methods, this paper presents a self-learning met
 ## Supplmentary Materials and Results
 - Supplementary PDF file: [Supplement](https://github.com/flyywh/CVPR-2020-Self-Rain-Removal-Journal/blob/main/pdf/TPAMI-Self-Video-Deraining-Sup-v2.pdf)
 - NTURain Results: [Baiduyun (Extraced Code: 8lsz)](https://pan.baidu.com/s/1BzM2dxsc96ff8xQwXvfqRQ) [Dropbox](https://www.dropbox.com/sh/iahn70id0kbzjr9/AACrPkDOBHPS6vwbYMLuppHEa?dl=0)
-- Supplementary Video: [Video](https://github.com/flyywh/CVPR-2020-Self-Rain-Removal-Journal/blob/main/pdf/TPAMI-Self-Video-Deraining-Sup-v2.pdf)
+- Supplementary Video: [Baiduyun (Extraced Code: fqfk)](https://pan.baidu.com/s/13RJ0DJMP4dIgYhHYoCgpCg) [Dropbox](https://www.dropbox.com/s/22ppcdtoixfgi6r/SLDNet_supplements_v1.mp4?dl=0)
 
 ## Contact
 If you have questions, you can contact `yangwenhan@pku.edu.cn`.
